@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-26T02:31:37 EET" name="Default suite" finished-at="2024-04-26T02:32:07 EET" duration-ms="29880">
+    <groups>
+    </groups>
+    <test started-at="2024-04-26T02:31:37 EET" name="Default test" finished-at="2024-04-26T02:32:07 EET" duration-ms="29880">
+      <class name="AddRandomProduct.SignupTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AddRandomProduct.SignupTest@10ded6a9]" started-at="2024-04-26T02:31:37 EET" name="setup" finished-at="2024-04-26T02:31:44 EET" duration-ms="7203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signupProcess()[pri:1, instance:AddRandomProduct.SignupTest@10ded6a9]" started-at="2024-04-26T02:31:44 EET" name="signupProcess" finished-at="2024-04-26T02:31:52 EET" duration-ms="8188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupProcess -->
+        <test-method signature="changePassword()[pri:2, instance:AddRandomProduct.SignupTest@10ded6a9]" started-at="2024-04-26T02:31:52 EET" name="changePassword" finished-at="2024-04-26T02:32:07 EET" duration-ms="14440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+      </class> <!-- AddRandomProduct.SignupTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
